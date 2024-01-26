@@ -14,7 +14,7 @@
     font-weight: 700;
 }
 .inbox1{
-    height: 800px;
+    min-height: 800px;
 }
 .text2{
     text-align: left;
@@ -114,9 +114,7 @@
     padding: 20%;
     background-color: white;
 }
-.inbox5:hover{
-   transform: scale(1.3);
-}
+
 /* .inbox7:hover{
     transform: scale(1.3);
  }
